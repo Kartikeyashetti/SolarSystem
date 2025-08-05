@@ -1,0 +1,58 @@
+{
+    
+  "Sun": {
+    "description": "The Sun is the central star of our Solar System, providing light and heat to all the planets.",
+    "mass": "1.989 × 10^30 kg",
+    "radius": "696,340 km",
+    "orbitalPeriod": "—"
+  },
+
+  "Mercury": {
+    "description": "Mercury is the closest planet to the Sun. It's a small, rocky world with a very thin atmosphere.",
+    "mass": "3.30 × 10^23 kg",
+    "radius": "2,439.7 km",
+    "orbitalPeriod": "87.97 days"
+  },
+  "Venus": {
+    "description": "Venus has a thick, toxic atmosphere and surface temperatures hot enough to melt lead.",
+    "mass": "4.87 × 10^24 kg",
+    "radius": "6,051.8 km",
+    "orbitalPeriod": "224.70 days"
+  },
+  "Earth": {
+    "description": "Earth is the only planet known to support life, with vast oceans and a breathable atmosphere.",
+    "mass": "5.97 × 10^24 kg",
+    "radius": "6,371 km",
+    "orbitalPeriod": "365.25 days"
+  },
+  "Mars": {
+    "description": "Mars is a cold, desert-like planet with signs of ancient water and potential for past life.",
+    "mass": "6.42 × 10^23 kg",
+    "radius": "3,389.5 km",
+    "orbitalPeriod": "686.98 days"
+  },
+  "Jupiter": {
+    "description": "Jupiter is the largest planet in the Solar System, known for its Great Red Spot and many moons.",
+    "mass": "1.90 × 10^27 kg",
+    "radius": "69,911 km",
+    "orbitalPeriod": "11.86 years"
+  },
+  "Saturn": {
+    "description": "Saturn is famous for its beautiful ring system and has over 80 moons.",
+    "mass": "5.68 × 10^26 kg",
+    "radius": "58,232 km",
+    "orbitalPeriod": "29.45 years"
+  },
+  "Uranus": {
+    "description": "Uranus is an ice giant with a unique sideways rotation and pale blue color.",
+    "mass": "8.68 × 10^25 kg",
+    "radius": "25,362 km",
+    "orbitalPeriod": "84.01 years"
+  },
+  "Neptune": {
+    "description": "Neptune is a cold, dark, and windy planet, farthest from the Sun in our Solar System.",
+    "mass": "1.02 × 10^26 kg",
+    "radius": "24,622 km",
+    "orbitalPeriod": "164.8 years"
+  }
+}
