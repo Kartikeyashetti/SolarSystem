@@ -9,7 +9,7 @@ export default function Planet({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   color = 'royalblue',
-  textureUrl = '/images/planet/neptune.webp',
+  textureUrl = import.meta.env.BASE_URL + `images/planet/neptune.webp`,
   onPlanetClick,
   name,
   orbitColor = 'gray',

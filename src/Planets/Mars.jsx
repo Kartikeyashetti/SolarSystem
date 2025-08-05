@@ -9,7 +9,7 @@ export default function Planet({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   color = 'indianred',
-  textureUrl = '/images/planet/mars.jpg',
+  textureUrl = import.meta.env.BASE_URL + `images/planet/mars.jpg`,
   onPlanetClick,name,
   orbitColor = 'gray',
 }) {

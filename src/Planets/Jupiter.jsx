@@ -9,7 +9,7 @@ export default function Planet({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   color = 'peru',
-  textureUrl = '/images/planet/Jupiter.jpg',
+  textureUrl = import.meta.env.BASE_URL + `images/planet/Jupiter.jpg`,
   orbitColor = 'gray', onPlanetClick,
 name
 }) {

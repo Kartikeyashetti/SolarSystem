@@ -9,7 +9,7 @@ export default function Venus({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   color = 'khaki',
-  textureUrl = '/images/planet/venus.jpg',
+  textureUrl = import.meta.env.BASE_URL + `images/planet/venus.jpg`,
   orbitColor = 'gray',
   onPlanetClick,
 name,

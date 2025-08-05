@@ -9,7 +9,7 @@ export default function Mercury({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   color = 'darkgray',
-  textureUrl = '/images/planet/mercury.jpg',
+  textureUrl = import.meta.env.BASE_URL + `images/planet/mercury.jpg`,
   onPlanetClick,
 name,
   orbitColor = 'gray',
