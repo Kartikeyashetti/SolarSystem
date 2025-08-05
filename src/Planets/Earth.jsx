@@ -9,7 +9,7 @@ export default function Planet({
   speed = 0.01,
   selfSpinSpeed = 0.05,
   // textureUrl = '/images/planet/earth.png',
-  textureUrl = import.meta.env.BASE_URL + `images/planet/${planetName}.png`,
+  textureUrl = import.meta.env.BASE_URL + `images/planet/earth.png`,
 
   orbitColor = 'gray',
   onPlanetClick,name
